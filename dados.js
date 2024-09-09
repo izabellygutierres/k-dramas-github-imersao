@@ -12,6 +12,16 @@ let dados = [
     {
         titulo: "Advogada Extraordinária",
         descricao: "Woo Young-woo é uma advogada brilhante no espectro autista que se junta a um grande escritório de advocacia. Com sua inteligência excepcional e perspectiva única, ela enfrenta desafios profissionais e pessoais, enquanto busca seu lugar no mundo.",
-        link: "https://www.netflix.com/br/title/81518991?source=35" // Substitua pelo link correto de Advogada Extraordinária
+        link: "https://www.netflix.com/br/title/81518991?source=35" 
+    },
+      {
+        titulo: "Beleza Verdadeira",
+        descricao: "Uma mulher com baixa autoestima, que se transforma em uma beleza após passar por uma cirurgia plástica, busca se vingar de seus inimigos e encontrar o amor verdadeiro.",
+        link: "https://www.netflix.com/br/title/81410834?source=35" 
+    },
+    {
+        titulo: "Sorriso Real",
+        descricao: "Uma história de amor e rivalidade entre duas irmãs que lutam pelo trono em um reino imaginário. A série explora temas como ambição, traição e a busca pelo poder.",
+        link: "https://www.netflix.com/br/title/81671440?source=35" 
     }
 ];
